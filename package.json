@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "koa": "~1.0.0",
+    "koa-cors": "0.0.16",
+    "koa-static": "~1.4.9"
+  }
+}
